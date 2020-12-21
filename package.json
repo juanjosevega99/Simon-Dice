@@ -1,0 +1,12 @@
+{
+  "name": "API-node-sequelize-docker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Juan Jose Vega",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.5.1",
+    "sequelize": "^6.5.0"
+  }
+}
